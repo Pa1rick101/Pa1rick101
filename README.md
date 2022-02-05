@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**Pa1rick101/Pa1rick101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: About Me
+- 🎓 Graduate in Business Math & Information Systems.
+- 🌱 Interested in emerging technologies.
+- 👨‍💻 Currently trying to understand this "blockchain" thing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# Technologies
+
+### Languages✍🏼
+
+<img src="https://img.icons8.com/color/40/python--v1.png"/> <img src="https://img.icons8.com/color/40/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/ios/40/solidity.png"/>
